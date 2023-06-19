@@ -1,0 +1,20 @@
+matches:
+    - trigger: "!me"
+      replace: "Jadin Sadler"
+
+
+    # Emails section
+    - trigger: "!emailg"
+      replace: "JadinSadler@gmail.com"
+
+    - trigger: "!emailw"
+      replace: "Jadin.sadler@wsu.edu"
+
+
+    # My links to my stuff section
+    - trigger: "!proflinkedin"
+      replace: "www.linkedin.com/in/jadin-sadler/"
+
+    - trigger: "!profgit"
+      replace: "https://github.com/Avazars"
+
